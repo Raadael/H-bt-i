@@ -67,3 +67,7 @@ body {
 .login-container .message a:hover {
     text-decoration: underline;
 }
+
+a:link{
+    color: #ddd;
+}
